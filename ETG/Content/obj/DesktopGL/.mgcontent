@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Effects/effect01.fx</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Effects/FadeGray.fx</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/bullet_hand_001.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Death/Death_Back_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Death/Death_Back_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Death/Death_Back.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Death/Death_Front_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Death/Death_Front_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Death/Death_Front.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Death/Death_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Death/Death_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Die/die_left_back.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Die/die_left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Die/die_right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Gun/big_gun_idle_001.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Gun/Revolver_Fire.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Hit/Hit_Back_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Hit/Hit_Back_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Hit/Hit_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Hit/Hit_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Idle/Idle_Back.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Idle/Idle_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Idle/Idle_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Run/Run_Left_Back.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Run/Run_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Run/Run_Right_Back.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Enemy/BulletMan/Run/Run_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/font.spritefont</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Guns/knav3_idle_001.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Guns/knav3_reload_001.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Guns/RogueSpecial_Fire.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Dash/Dash_Back.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Dash/Dash_Diagonal_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Dash/Dash_Diagonal_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Dash/Dash_Front.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Dash/Dash_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Dash/Dash_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Idle/Idle_Back_Hand_Left2.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Idle/Idle_Back_Hand_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Idle/Idle_Diagonal_Hand_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Idle/Idle_Diagonal_Hand_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Idle/Idle_Front_Hand_Left2.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Idle/Idle_Front_Hand_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Idle/Idle_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Idle/Idle_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Run/Run_Back_hand_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Run/Run_Back_Hand_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Run/Run_Diagonal_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Run/Run_Diagonal_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Run/Run_Front_Hands_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Run/Run_Front_Hands_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Run/Run_Left.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/New/Run/Run_Right.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Projectiles/Enemy_Projectile.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Projectiles/Player_Projectile.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Texts/ReloadText.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/UI/AmmoBarUI.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/UI/AmmoDisplay.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/UI/Frame.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/UI/Slider.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/UI/SliderValue.png</File>
+    <File>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/VFX/RogueSpecialReload/ReloadVFX.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/Effects/effect01.fx</SourceFile>
+  <SourceTime>2023-05-11T02:59:14.9054325-04:00</SourceTime>
+  <DestFile>C:/Users/xqwys/RiderProjects/MainProject/ETG/Content/bin/DesktopGL/Effects/effect01.xnb</DestFile>
+  <DestTime>2023-05-12T22:13:44.8326361-04:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
