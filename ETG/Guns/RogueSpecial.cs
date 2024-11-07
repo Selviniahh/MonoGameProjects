@@ -53,8 +53,15 @@ public class RogueSpecial : GunBase
         GunPosition = gunPosition;
         Vector2 direction = new Vector2((float)Math.Cos(GunRotation), (float)Math.Sin(GunRotation));
         GunOrigin = CalculateOrigin(direction);
-        direction *= 60;
-        BarrelTipPosition = GunPosition + direction;
+        direction *= 50;
+        
+         // Adjust the multiplier based on your sprite's dimensions
+            float barrelOffset = 5550f; // Adjust this value as needed
+            Vector2 barrelOffsetVector = direction * barrelOffset;
+            BarrelTipPosition = GunPosition + barrelOffsetVector;
+            Vector2 ExtraOffset = new Vector2(0, -30);
+            
+        BarrelTipPosition = GunPosition + direction + ExtraOffset;
         ClickTimer += Globals.TotalSeconds;
 
         //Set CurrentState
