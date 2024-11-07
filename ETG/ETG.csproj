@@ -5,6 +5,7 @@
         <RollForward>Major</RollForward>
         <PublishReadyToRun>false</PublishReadyToRun>
         <TieredCompilation>false</TieredCompilation>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
     <PropertyGroup>
         <ApplicationManifest>app.manifest</ApplicationManifest>
@@ -24,10 +25,7 @@
         <PackageReference Include="TiledSharp" Version="1.0.1" />
     </ItemGroup>
     <Target Name="RestoreDotnetTools" BeforeTargets="Restore">
-        <Message Text="Restoring dotnet tools" Importance="High" />
-        <Exec Command="dotnet tool restore" />
-    </Target>
-    <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-        <Exec Command="xcopy /Y /S /I &quot;$(ProjectDir)Content\bin\DesktopGL\*&quot; &quot;$(TargetDir)Content&quot;" />
+        <Message Text="Restoring dotnet tools" Importance="High"/>
+        <Exec Command="dotnet tool restore"/>
     </Target>
 </Project>
