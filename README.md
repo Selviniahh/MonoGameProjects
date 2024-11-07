@@ -8,3 +8,7 @@ These Monogame projects, have been useful in my understanding of (OOP) principle
 
 3. A tile map editor where you can select images from right panel and make tile map with grids
 ![Tilemap](https://github.com/user-attachments/assets/83e0d75b-4b75-4aac-ab68-edd15ce84ef0)
+
+4. A simple imitation of Enter The Gungeon game
+ 
+![ETG](https://github.com/user-attachments/assets/37d6f69a-0e13-4e4d-a1f0-c778e2db90e9)
