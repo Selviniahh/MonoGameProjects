@@ -12,3 +12,12 @@ These Monogame projects, have been useful in my understanding of (OOP) principle
 4. A simple imitation of Enter The Gungeon game
  
 ![ETG](https://github.com/user-attachments/assets/37d6f69a-0e13-4e4d-a1f0-c778e2db90e9)
+
+___
+Video formats can be found here
+
+TileMap: https://github.com/user-attachments/assets/30b28a29-06fd-4147-8b0e-5b79c9a4ef59
+ETG: https://github.com/user-attachments/assets/9ad5d204-4dc5-4140-927b-deca022ca3ff
+Circle Bounce: https://github.com/user-attachments/assets/e79c6c09-1d33-4bb0-a2ce-5775f99767a5
+Pathfinding: https://github.com/user-attachments/assets/5ca9d61a-2f5b-4b58-a688-6ee62e15f2bc
+
